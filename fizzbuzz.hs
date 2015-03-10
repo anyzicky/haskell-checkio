@@ -11,13 +11,13 @@
 
 	Примеры:
 
-	checkio(15) == "Fizz Buzz"
+	checkio 15 == "Fizz Buzz"
 
-	checkio(6) == "Fizz"
+	checkio 6 == "Fizz"
 
-	checkio(5) == "Buzz"
+	checkio 5 == "Buzz"
 
-	checkio(7) == "7"
+	checkio 7 == "7"
 
 -}
 
